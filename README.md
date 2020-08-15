@@ -21,4 +21,4 @@ Deadline, hạn chót nộp source code là **23:59 ngày 21/08/2020**
  - Deadline, hạn chót nộp source code là ```23:59 ngày 21/08/2020```
 ## Review
  - Sẽ có 1-2 source được chọn để review trong livestream 
- - Livestream tổng hợp những điểm tốt/xuất của các source đã nộp
+ - Livestream tổng hợp những điểm tốt/xấu của các source đã nộp
