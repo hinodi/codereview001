@@ -1,4 +1,5 @@
 # Code review week 01 (21/08/2020)
+Deadline, hạn chót nộp source code là **23:59 ngày 21/08/2020**
 ## Yêu cầu
  - Một màn hình duy nhất. Code màn hình đó trên một file duy nhất
  - Không dùng thư viện khác ***react, react native***
